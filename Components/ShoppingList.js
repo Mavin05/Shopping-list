@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
   },
   separator: {
     height: 1,
-    backgroundColor: "#D3D3D3",
+    backgroundColor: "#d3d3d3",
   },
   flatlist: {
     paddingTop: 20,
