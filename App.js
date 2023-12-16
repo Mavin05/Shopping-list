@@ -15,14 +15,6 @@ export default function App() {
       todo: "Buy Vegetables",
       id: "2",
     },
-    {
-      todo: "Buy Fruits",
-      id: "3",
-    },
-    {
-      todo: "Buy Rice",
-      id: "4",
-    },
   ]);
 
   const deleteItem = (item) => {
